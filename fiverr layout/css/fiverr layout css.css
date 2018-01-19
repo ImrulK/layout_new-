@@ -1,0 +1,49 @@
+*{ margin: 0;
+padding: 0; }
+
+.header {
+    background-color: #4267B2;
+    min-height: 68px;
+    overflow:hidden;
+    
+}
+
+.wrapper {
+    width:80%;
+   
+    margin:0 auto;
+    
+}
+
+.logo {  
+    color: white; 
+    font-size: 25px;
+    margin-top: 40px;
+    
+}
+
+.signin { margin-left:740px;
+min-height:18px;   }
+
+.content {background-color: #E9EBEE ;
+    min-height: 950px;
+    overflow:hidden;
+    color: #0E3882;
+} 
+
+.identification_image {
+}
+
+.sign_up {
+}
+
+.footer {
+min-height: 170px;}
+overflow:hidden;
+
+
+.footer_top {
+}
+
+.footer_bottom {
+}

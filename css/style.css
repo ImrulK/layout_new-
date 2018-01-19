@@ -1,0 +1,5 @@
+.menu_bar{}
+.menu_bar ul{ margin: auto; padding: 0px;  list-style: none;}
+.menu_bar ul li {}
+.menu_bar ul li a{ color:black;}
+.menu_bar ul li a:hover{color:lightsalmon;}
